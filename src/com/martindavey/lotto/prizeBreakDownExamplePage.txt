@@ -1,0 +1,614 @@
+
+
+
+
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+	<head>
+		<title>Lotto prize breakdown | Check results | The National Lottery</title>
+<meta name="keywords" content="The official National Lottery website, UK National Lottery, Lotto, Lottery Results, Results, Winning numbers, Prizes, Prize breakdown." />
+<meta name="description" content="Prize breakdown for the latest Lotto draw." />
+		<link type="text/css" media="screen" href="/player/styles/global.css" rel="stylesheet" />
+		<link type="text/css" media="screen" href="/player/styles/b/bpglobal.css" rel="stylesheet" />
+		<link type="text/css" media="screen" href="/player/styles/c/c88.css" rel="stylesheet" />
+<link type="text/css" media="screen" href="/player/styles/c/c170.css" rel="stylesheet" />
+	<link type="text/css" media="screen" href="/player/styles/b/uc0107Prizebreakdown.css" rel="stylesheet" />
+	<link type="text/css" media="screen" href="/player/styles/b/uc0107.css" rel="stylesheet" />
+	<link type="text/css" media="screen" href="/player/styles/c/c150.css" rel="stylesheet" />
+ <link type="text/css" media="screen" href="/player/styles/c/c161.css" rel="stylesheet" />
+
+		<script type="text/javascript" src="/player/scripts/3l/jquery.js"></script>
+		<script type="text/javascript" src="/player/scripts/3l/global.js"></script>
+    <script type="text/javascript"><!--
+        var errorText = '<em class="hide">Error - </em>';
+    // --></script>
+    <script type="text/javascript" src="/player/scripts/3l/messageBar.js"></script>
+	<script type="text/javascript" src="/player/scripts/3l/c170.js"></script>
+	</head>
+
+	<body class="t3">
+<ul id="accessibility">
+<li class="acchide"><a href="#nav" >main site navigation</a></li>
+<li class="acchide"><a href="#myaccount" accesskey="7" >sign in to your account</a></li>
+<li class="acchide">
+<a href="#contentskip" accesskey="2" >skip to content</a> 
+</li>
+<li class="acchide"><a href="#breadcrumb" >site breadcrumb</a></li>
+<li class="acchide"><a href="#footer" >footer links</a></li>
+</ul>		<div id="wrapper">
+    <div id="header">
+<div id="logo"><a href="/player/p/home.ftl" ><img src="/player/i/header/logo.png" alt="The National Lottery - life changing" height="56" width="239" /></a></div>
+            <div id="myaccount" class="loggedout compInfo">
+    <div id="signin">
+        <ul>
+            <li class="first"><a href="/player/user/login.do" id="c01_01_Signin">Sign in</a></li>
+            <li><a href="/player/credentials/forgotten-details.action" id="c01_01_Forgotusername" >Forgot username or password?</a></li>
+            <li class="last"><a href="/player/registration/startRegistration.action" id="c01_01_OpenAccount">Open Account</a></li>
+        </ul>
+    </div>
+    <div id="options">
+        <a href="/player/account/wallet/landing.do" class="hlink" accesskey="7" id="c01_01_MyAccount">My Account</a>
+    </div>
+    </div>
+
+
+        <ul id="nav" class="selected4 compInfo">
+
+
+                    <li class="first level1">
+                    <span></span><a href="/player/p/home.ftl" accesskey="1"  id="c02_Home_tab">Home</a>
+                </li>
+                    <li class="second level1">
+                    <span></span><a href="/player/p/playgames.ftl" accesskey="3"  id="c02_Playgames_tab">Play games</a>
+                    <ul>
+                            <li class="l2first">
+                        <a href="/player/p/instantwins.ftl "    id ="c02_InstantWins" >Instant Wins</a>
+                        </li>
+                            <li>
+                        <a href="/player/p/lotterydrawgames.ftl"    id ="c02_LotteryDrawGames" >Lottery Draw Games</a>
+                        </li>
+                            <li>
+                        <a href="/player/p/lotterydrawgames/lotto.ftl"    id ="c02_LottoandPlus5" >Lotto and Plus 5</a>
+                        </li>
+                            <li>
+                        <a href="/player/p/lotterydrawgames/euromillions.ftl"    id ="c02_EuroMillions" >EuroMillions</a>
+                        </li>
+                            <li>
+                        <a href="/player/p/lotterydrawgames/thunderball.ftl"    id ="c02_Thunderball" >Thunderball</a>
+                        </li>
+                            <li>
+                        <a href="/player/p/lotterydrawgames/lottohotpicks.ftl"    id ="c02_LottoHotPicks" >Lotto HotPicks</a>
+                        </li>
+                            <li>
+                        <a href="/player/p/lotterydrawgames/playbytext.ftl"    id ="c02_PlaybyText" >Play by Text</a>
+                        </li>
+                            <li class="last">
+                        <a href="/player/p/lotterydrawgames/playbydirectdebit.ftl"    id ="c02_PlaybyDirectDebit" >Play by Direct Debit</a>
+                        </li>
+                    </ul>
+                </li>
+                    <li class="third level1">
+                    <span></span><a href="/player/p/instantwins.ftl "   id="c02_InstantWins_tab">Instant Wins</a>
+                    <ul>
+                            <li class="l2first">
+                        <a href="/player/p/instantwins.ftl"    id ="c02_PlayInstantWinsonline" >Play Instant Wins online</a>
+                        </li>
+                            <li class="last">
+                        <a href="/player/p/instants.ftl"    id ="c02_MoreaboutInstants" >More about Instants</a>
+                        </li>
+                    </ul>
+                </li>
+                    <li class="fourth level1">
+                    <span></span><a href="/player/p/results.ftl" accesskey="5"  id="c02_Checkresults_tab">Check results</a>
+                    <ul>
+                            <li class="l2first">
+                        <a href="/player/p/results/lotto.ftl"    id ="c02_LottoandPlus5results" >Lotto and Plus 5 results</a>
+                        </li>
+                            <li>
+                        <a href="/player/p/results/euromillions.ftl"    id ="c02_EuroMillionsresults" >EuroMillions results</a>
+                        </li>
+                            <li>
+                        <a href="/player/p/results/thunderball.ftl"    id ="c02_Thunderballresults" >Thunderball results</a>
+                        </li>
+                            <li>
+                        <a href="/player/p/results/hotpicks.ftl"    id ="c02_LottoHotPicksresults" >Lotto HotPicks results</a>
+                        </li>
+                            <li>
+                        <a href="/player/p/drawHistory.do"    id ="c02_Drawhistory" >Draw history</a>
+                        </li>
+                            <li>
+                        <a href="/player/p/results/unclaimedPrizes.do"    id ="c02_Unclaimedprizes" >Unclaimed prizes</a>
+                        </li>
+                            <li class="last">
+                        <a href="/player/p/results/tvshows.ftl"    id ="c02_TVshows" >TV shows</a>
+                        </li>
+                    </ul>
+                </li>
+                    <li class="last level1">
+                    <span></span><a href="/player/p/goodcausesandwinners.ftl"   id="c02_GoodCausesandwinners_tab">Good Causes and winners</a>
+                    <ul>
+                            <li class="l2first">
+                        <a href="/player/p/goodcausesandwinners/goodcausesstory.ftl"    id ="c02_GoodCausesstory" >Good Causes story</a>
+                        </li>
+                            <li>
+                        <a href="/player/p/goodcausesandwinners/winnersgallery.ftl"    id ="c02_Winnersgallery" >Winners' gallery</a>
+                        </li>
+                            <li>
+                        <a href="http://www.nationallotterylondon2012.co.uk"    id ="c02_London2012" >London 2012</a>
+                        </li>
+                            <li class="last">
+                        <a href="/player/p/goodcausesandwinners/wherethemoneygoes.ftl"    id ="c02_Wherethemoneygoes" >Where the money goes</a>
+                        </li>
+                    </ul>
+                </li>
+        </ul>
+
+    <div id="alertbar" class="optionsform">
+        <ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+	            <li class="errormess hide" id="jserrmsgcontainer">
+	                <span id="jserrmsgcontainerdetail"></span>
+	            </li>
+
+
+        </ul>
+    </div>
+    </div>
+
+	<div id="breadcrumb">
+<ol> <li class="first"> <a href="/player/p/results.ftl">Check results</a></li> <li><h1>Lotto Prize Breakdown</h1></li> </ol>
+    <ul id="supplementary">
+	    <li class="first"><a href="/player/p/help.ftl" accesskey="6">Help</a></li>
+	  	<li><a href="/player/p/aboutcookies.ftl" >This site uses cookies. Find out more.</a></li>
+    </ul>
+    
+	</div>
+
+			<div id="contentwrapper">
+				<div id="content">
+					<div id="secondarynav">
+
+<!-- Start of component c170 -->
+<div class="com25">
+ <div class="c170 co compInfo" id="navigation.C170_25_nav_results.-000" >
+  <div class="header"><h2>Latest results</h2></div>
+  <div class="content">
+  <ul>
+			<li class="active">
+  			 <ul>
+
+	<li class="c170_lotto">
+
+		<a href="/player/p/results/lotto.ftl" class="imgwrap" id="c170_lotto_Asset">
+<img src="/player/i/logo/lotto_logoballsm.png" alt="Lotto Logo" width="57" height="57"  /><img src="/player/i/logo/plus5_logo_latest.png" alt="Plus 5 Logo" width="57" height="33" />                </a>
+		<div class="wrap">
+                            <div class="text">
+			<h3><a href="/player/p/results/lotto.ftl" id="c170_lotto_GameName">
+Lotto<span class="addon"> and Plus 5</span>                             </a>
+                        </h3>
+			<p>Check your numbers</p>
+                            </div>
+		</div>
+	</li>
+              <li>
+			   <ul class="second">
+					<li>
+				  		<a id="c170_lotto_drawhistory" href="/player/lotto/results/results.ftl">Draw history</a>
+				  	</li>
+					<li>
+				  		<a id="c170_lotto_prizebreakdown" href="/player/lotto/results/prizeBreakdown.ftl">Lotto prize breakdown</a>
+				  	</li>
+					<li>
+				  		<a id="c170_lotto_frequencychecker" href="/player/frequencyChecker.do?action=showAllForGame&amp;gameType=lotto">Lotto Frequency Checker</a>
+				  	</li>
+					<li>
+				  		<a id="c170_plusfive_prizebreakdown" href="/player/plusfive/results/prizeBreakdown.ftl">Plus 5 prize breakdown</a>
+				  	</li>
+					<li class="last">
+				  		<a id="c170_plusfive_frequencychecker" href="/player/frequencyChecker.do?action=showAllForGame&amp;gameType=plusfive">Plus 5 Frequency Checker</a>
+				  	</li>
+			   </ul>
+			  </li>
+			 </ul>
+			</li>
+
+	<li class="c170_euro">
+
+		<a href="/player/p/results/euromillions.ftl" class="imgwrap" id="c170_euro_Asset">
+<img src="/player/i/logo/euro_logoballsm.png" alt="EuroMillions Logo"  />                </a>
+		<div class="wrap">
+                            <div class="text">
+			<h3><a href="/player/p/results/euromillions.ftl" id="c170_euro_GameName">
+EuroMillions                             </a>
+                        </h3>
+			<p>Check your numbers</p>
+                            </div>
+		</div>
+	</li>
+
+	<li class="c170_thunderball">
+
+		<a href="/player/p/results/thunderball.ftl" class="imgwrap" id="c170_thunderball_Asset">
+<img src="/player/i/logo/thunderball_logoballsm.png" alt="Thunderball logo" width="57" height="57"  />                </a>
+		<div class="wrap">
+                            <div class="text">
+			<h3><a href="/player/p/results/thunderball.ftl" id="c170_thunderball_GameName">
+Thunderball                             </a>
+                        </h3>
+			<p>Check your numbers</p>
+                            </div>
+		</div>
+	</li>
+
+	<li class="c170_hotpicks">
+
+		<a href="/player/p/results/hotpicks.ftl" class="imgwrap" id="c170_hotpicks_Asset">
+<img src="/player/i/logo/hotpicks_logoballsm.png" alt="Lotto HotPicks Logo" width="57" height="57"  />                </a>
+		<div class="wrap">
+                            <div class="text">
+			<h3><a href="/player/p/results/hotpicks.ftl" id="c170_hotpicks_GameName">
+Lotto HotPicks                             </a>
+                        </h3>
+			<p>Check your numbers</p>
+                            </div>
+		</div>
+	</li>
+  </ul>
+  </div>
+ </div>
+</div>
+<!-- End of component c170 -->
+					</div>
+					<div id="primary">
+						<a name="contentskip"></a>
+
+
+  <div class="com75">
+    <div class="c150 compInfo" id="local.c150_75_prizebreak_lotto.-000">
+      <div class="header"><!-- empty --></div>
+      <div class="content">
+	  <div id="c150_flashcontent_531476365">
+	          <div id="htmlcontainer531476365">
+
+<div class="c150">
+			<div class="globalhook">
+		<div class="hero_primaryfull c150_registeronline75 optionsform">
+	
+			
+							<h2									   >
+									   Forgot to buy your tickets?</h2>																<ul><li>You can buy Lotto online for up to 8 weeks at a time</li><li>We&#39;ll tell you when your ticket is about to run out</li></ul>
+						
+							
+				
+						
+			
+							<a href="/player/registration/startRegistration.action" class="primary transparent"><span>Open an Account</span></a>
+
+							
+						
+			
+	</div>
+</div>
+
+
+		
+	</div>	          </div>
+  </div>
+      </div>
+    </div>
+  </div>
+					</div>
+					<a name="contentskip" class="contentskip" href="#"></a>
+					<div id="secondary">
+
+
+
+
+
+        
+
+	<!-- Start of component prize_breakdown -->
+	<div class="com75">
+	    <div class="bpreset">
+		<div class="prize_breakdown lo rd">
+
+			<div class="header"><!-- empty --></div>
+
+			<div class="content">
+				<form method="post" action="#" class="optionsform">
+					<div class="contentwrapper">
+						<div class="contentwrapperleft">
+							<div class="logowrap">
+<img src="/player/i/logo/lotto_logo.png" alt="Lotto" />							</div>
+							<div class="topmiddlewrapper">
+															<div class="topcontent">
+<h3>Prize breakdown</h3>									<div class="lefttext">
+<p><strong> Sat 02 Feb 13 </strong> Draw 1786  </p>									</div>
+									<div class="righttext">
+											<p><span class="hide">Results for all balls including the </span>Bonus<span class="hide"> ball</span></p>
+									</div>
+								</div>
+								<div class="middlecontent">
+									<ol>
+												<li>02</li>
+												<li>12</li>
+												<li>13</li>
+												<li>14</li>
+												<li>21</li>
+												<li>30</li>
+													<li class="bonus">39</li>
+									</ol>
+								</div>
+							</div>
+						</div>
+						<div class="contentwrapperright">
+							<h3 class="hide">Lotto - Are you a winner?</h3>
+<p class="winneramount">Jackpot for this draw <strong>&#163;6,034,942</strong></p>						</div>
+        		</div>
+					<div class="pbleftcol">
+						<table class="transactions" summary="A breakdown of the prize money">
+							<thead>
+								<tr>
+									<th scope="col" class="first"><abbr title="Number">No.</abbr> of matches</th>
+									<th scope="col"><abbr title="Number">No.</abbr> of winners</th>
+
+										<th scope="col">&#163;s per winner</th>
+
+										<th scope="col">Prize fund</th>
+								</tr>
+							</thead>
+							<tbody>
+							        <tr>
+										<td class="first">Match 6</td>
+
+								            <td><strong>2</strong></td>
+									
+									<td>&#163;3,017,471</td>
+									<td>&#163;6,034,942</td>
+							        </tr>
+							        <tr>
+										<td class="first">Match 5 plus Bonus</td>
+
+								            <td><strong>9</strong></td>
+									
+									<td>&#163;126,696</td>
+									<td>&#163;1,140,264</td>
+							        </tr>
+							        <tr>
+										<td class="first">Match 5</td>
+
+								            <td><strong>714</strong></td>
+									
+									<td>&#163;998</td>
+									<td>&#163;712,572</td>
+							        </tr>
+							        <tr>
+										<td class="first">Match 4</td>
+
+								            <td><strong>35,313</strong></td>
+									
+									<td>&#163;44</td>
+									<td>&#163;1,553,772</td>
+							        </tr>
+							        <tr>
+										<td class="first">Match 3</td>
+
+								            <td><strong>590,919</strong></td>
+									
+									<td>&#163;10</td>
+									<td>&#163;5,909,190</td>
+							        </tr>
+						        <tr class="totals">
+									<td class="first">Totals</td>
+							            <td><strong>626,957</strong></td>
+									<td><!-- empty --></td>
+									<td>&#163;15,350,740</td>
+								</tr>
+							</tbody>
+						</table>
+<p>Whilst every care is taken to ensure the accuracy of information containing National Lottery results, Camelot UK Lotteries Limited cannot take any responsibility for any errors or omissions. Prize winning and all aspects of the National Lottery games are subject to Games Rules and Procedures.</p>
+   <p><a title="Nearest Post Office to claim a prize - Opens in a new window" href="http://www.postoffice.co.uk/portal/po/finder" target="_blank">Where is the nearest Post Office I can claim my National Lottery prize?</a></p>					</div>
+					<div class="pbrightcol">
+						<div class="addinf">
+							<h3>Additional information</h3>
+
+
+<h4>Lotto</h4><span>Jackpot winner(s)</span><strong>2</strong>
+
+<h4>Machine used for draw</h4><strong>ARTHUR</strong>
+<h4>Ball set used</h4><strong>7</strong>
+
+						</div>
+							<script type="text/javascript"><!--
+							document.write ('<fieldset><a class="secondary" onclick="javascript:history.back();return false;">');
+							document.write ('<span>Go Back<\/span>');
+							document.write ('<\/a><\/fieldset>');
+							// --></script>
+					</div>
+				</form>
+			</div>
+			<div class="footer">
+			</div>
+       </div>
+       </div>
+	</div>
+  
+	<!-- End of component prize_breakdown -->
+
+					</div>
+					<div id="supporting">
+
+
+
+
+  <div class="com25">
+    <div class="c150 compInfo" id="promos_signposts.c150_25_newtoonlinesp.-000">
+      <div class="header"><!-- empty --></div>
+      <div class="content">
+	  <div id="c150_flashcontent_213859827">
+<div class="c150">
+			<div class="globalhook">
+
+			<a href="/player/registration/startRegistration.action" ><img class="clickarea" src="/player/g/bespoke/blank.gif" alt="New to online? Open an Account today. It's free and secure." /></a>
+		<div class="hero_h169 c150_openaccount">
+	
+			
+																										<ul><li>Free</li><li>Secure</li></ul>
+						
+							<p class="hide"><a href="/player/registration/startRegistration.action" >Find out more</a></p>
+							
+				
+							<img class="bgimage" src="/player/i/promos_signposts/c150_25_newonline.png" alt="Open an Account" />
+						
+			
+							
+						
+			
+	</div>
+</div>
+
+		
+	</div>  </div>
+      </div>
+    </div>
+  </div>
+
+
+    <div class="com25">
+      <div class="c88 compInfo" id="promos.c88_allgames.c88_lotto.-000">
+        <div class="header"><!-- empty --></div>
+        <div class="content">
+          <div class="gamewrapper optionsform">
+            <div class="c88_flashcontent">
+              <div id="c88_flashcontent_1042784918">
+<a href="/player/p/lotterydrawgames/lotto.ftl" id="c88_lo_asset" ><img src="/player/i/logo/lotto_badge.png" alt="Lotto Logo"  /></a>              </div>
+            </div>
+            <div class="textcontent">
+              <h3><a href="/player/p/lotterydrawgames/lotto.ftl" id="c88_lotto_asset" >Lotto</a></h3>
+              <p class="price"><strong>&#163;1.00</strong></p>
+              <p>What would you do?</p>
+                    <p class="description"></p>
+              <p>   <!-- Some components use different text for the prize indicators so cater for this here with optional parameter -->
+       <!-- Some components use different text for the prize indicators so cater for this here with optional parameter -->
+<strong>&#163;5,900,000* Rollover</strong></p>
+	    		<p><strong>Sat 9 Feb 13</strong></p>
+                            <div class="plus5">
+                                <div class="imgwrap">
+<a href="/player/p/lotterydrawgames/lotto.ftl" ><img src="/player/i/logo/plus5_logoballsm.png" alt="Plus 5 Logo" /></a>                                </div>
+                                    <p>
+Plus 5 your Lotto. &pound;1 extra per play                                    </p>
+                            </div>
+              <a href="/player/p/lotterydrawgames/lotto.ftl" id="c88_lotto_PlayNow" class="playlink"><span>Play</span></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+    <div class="com25">
+    <div class="c161 compInfo" id="promos.c161_instantwins.c161_25_nuggle.-000">
+    <div class="header"><!-- empty --></div>
+    <div class="content">
+  	<div id="c161_flashcontent_144815800">
+
+          <div id="htmlcontainer144815800">
+
+<div class="globalhook">
+	        <a href="/player/gaming/wager/showGameDetail.do?type=wager&amp;gameId=00000000000000003682" id="c161_00000000000000003682_asset" ><img alt="Play Space Nuggle" src="/player/g/bespoke/blank.gif" class="clickarea"/></a>
+			<div class="iwg w25">
+	
+		<div class="darkgrey imagelogo">				
+					<div class="iwg_top"><!-- --></div>
+			<div class="iwg_content">
+				
+		<h2 class="hide">Space Nuggle</h2>				<p class="winstrap">Win up to <span>&pound;80,000</span></p>
+		<p class="price">&pound;2.00</p>
+		
+			
+				
+					<img alt="Play Space Nuggle" src="/player/i/promos/c161/c161_25_nuggle.gif" class="bgimage"/>																
+		</div>				
+		<div class="iwg_bottom"><a href="/player/gaming/wager/showGameDetail.do?type=wager&amp;gameId=00000000000000003682" id="c161_00000000000000003682_play" >Play Space Nuggle</a></div>			
+	</div>	
+	</div>
+	</div>          </div>
+	  	 </div>
+	    </div>
+	   </div>
+	  </div>
+
+					</div>
+				</div>
+			</div>
+
+   <div id="footer">
+
+
+
+
+    <div class="com100">
+		<div class="c164">
+
+
+
+		    			<p>* Estimated jackpot.</p>
+
+		</div>
+	</div>
+
+<div class="com100">
+        <div id="footer.c35" class="c35 compInfo">
+           <div class= "com25"> 
+		  <h2> Games </h2>
+		  <ul >
+		    <li> <a href="/player/p/instantwins.ftl" id="c35_PlayInstantWins"   >Play Instant Wins</a> </li><li> <a href="/player/p/lotterydrawgames/lotto.ftl" id="c35_PlayLotto"   >Play Lotto</a> </li><li> <a href="/player/p/lotterydrawgames/euromillions.ftl" id="c35_PlayEuroMillions"   >Play EuroMillions</a> </li><li> <a href="/player/p/lotterydrawgames/thunderball.ftl" id="c35_PlayThunderball"   >Play Thunderball</a> </li><li> <a href="/player/p/help/syndicates.ftl" id="c35_Startasyndicate"   >Start a syndicate</a> </li><li> <a href="/player/navigation/facetedGameNavigation.do?action=showAll" id="c35_Viewallgames"   >View all games</a> </li><li> <a href="/player/p/instantwins/onlinegames.ftl" id="c35_Aboutonlinegames"   >About online games</a> </li>
+		  </ul>
+		</div> <div class= "com25"> 
+		  <h2> Check results </h2>
+		  <ul >
+		    <li> <a href="/player/p/results.ftl" id="c35_Checkallresults"   >Check all results</a> </li><li> <a href="/player/p/results/lotto.ftl" id="c35_LottoResultsChecker"   >Lotto Results Checker</a> </li><li> <a href="/player/p/results/euromillions.ftl" id="c35_EuroMillionsResultsChecker"   >EuroMillions Results Checker</a> </li><li> <a href="/player/p/results/draws.ftl" id="c35_Watchthelatestdraws"   >Watch the latest draws</a> </li><li> <a href="/player/p/drawHistory.do" id="c35_Drawhistory"   >Draw history</a> </li><li> <a href="/player/p/results/unclaimedPrizes.do" id="c35_Unclaimedprizes"   >Unclaimed prizes</a> </li><li> <a href="/player/p/help/iphone.ftl" id="c35_CheckresultsonyouriPhone174"   >Check results on your iPhone&#174;</a> </li>
+		  </ul>
+		</div> <div class= "com25"> 
+		  <h2> Latest news &amp; <abbr title="Information">info</abbr> </h2>
+		  <ul >
+		    <li> <a href="/player/p/lottonews.ftl" id="c35_ExcitingchangestoLotto"   >Exciting changes to Lotto</a> </li><li> <a href="/player/results/euromillions/super-raffle-551.action?backPage=winCheckerResults" id="c35_25NewYearmillionairesresults"   >25 New Year millionaires results</a> </li><li> <a href="/player/results/euromillions/super-raffle-549.action?backPage=winCheckerResults" id="c35_25Christmasmillionairesresults"   >25 Christmas millionaires results</a> </li><li> <a href="/player/p/mobilelaunch/mobileinfo.ftl" id="c35_Playonyourmobile"   >Play on your mobile</a> </li><li> <a href="/player/p/results/draws.ftl" id="c35_NationalLotterydrawsonline"   >National Lottery draws online</a> </li><li> <a href="/player/softOptins.do" id="c35_SignupforRolloveralerts"   >Sign up for Rollover alerts</a> </li><li> <a href="/player/softOptins.do" id="c35_Signupforweeklyresultsalerts"   >Sign up for weekly results alerts</a> </li>
+		  </ul>
+		</div> <div class= "com25"> 
+		  <h2> Here to help </h2>
+		  <ul class="last">
+		    <li> <a href="/player/registration/startRegistration.action" id="c35_OpenanAccount"   >Open an Account</a> </li><li> <a href="/player/user/login.do" id="c35_SignintomyAccount"   >Sign in to my Account</a> </li><li> <a href="/player/credentials/forgotten-username.action" id="c35_Iveforgottenmyusername"   >I've forgotten my username</a> </li><li> <a href="/player/credentials/forgotten-password.action" id="c35_Iveforgottenmypassword"   >I've forgotten my password</a> </li><li> <a href="/player/p/instants.ftl" id="c35_MoreaboutInstants"   >More about Instants</a> </li><li> <a href="/player/p/help/faqs.ftl" id="c35_Frequentlyaskedquestions"   >Frequently asked questions</a> </li><li> <a href="/player/p/help/safetysecurity.ftl" id="c35_Safetyandsecurity"   >Safety and security</a> </li>
+		  </ul>
+		</div>
+        <div class="footer"></div>
+        </div>
+      </div>
+IT COULD BE YOU&reg; is a registered trade mark of the National Lottery Commission.
+<div class="com100">
+		  <div class="c33">
+		     <span id="ageWarning">You must be 16 or over to play or claim a prize</span>
+		<ul>
+			<li ><a  title="About Camelot - Opens in a new window" target="_blank"   href="http://www.camelotgroup.co.uk" >About us</a></li> <li ><a    href="/player/p/serviceguide.ftl" >Service Guide</a></li> <li ><a   accesskey="9" href="/player/p/contactus.ftl" >Contact us</a></li> <li ><a    href="/player/p/privacypolicy.ftl" >Privacy Policy</a></li> <li ><a    href="/player/p/help/responsibleplay.ftl" >Responsible play</a></li> <li ><a   accesskey="8" href="/player/p/termsandconditions.ftl" >Terms and Conditions</a></li> <li ><a    href="/player/p/affiliates.ftl" >Affiliates</a></li> <li ><a    href="/player/p/help/yoursecurity/securityadvice.ftl" >Security</a></li> <li ><a    href="/player/p/importantnotice.ftl" >Important notice</a></li> <li ><a   accesskey="0" href="/player/p/accessibility.ftl" >Accessibility</a></li> <li class="last"><a  class="last" accesskey="4" href="/player/p/sitemap.ftl" >Sitemap</a></li>  
+	   	</ul>             
+  </div>
+  </div> 
+		<div class="com100 callouts">
+				<p class="nl">The National Lottery games on this website are promoted by Camelot UK Lotteries Limited under licences granted by the National Lottery Commission.  <a href="http://www.natlotcomm.gov.uk/regulating-the-lottery/licence-to-operate-the-lottery-section-5-licence.html" title="Opens in new window" target="_blank">Find out more about the licence</a></p>
+				<p class="gamcare">Camelot UK Lotteries Limited and The National Lottery are committed to responsible play. <a href="http://gamcare.co.uk/" title="Opens in new window" target="_blank">Find out more about GamCare</a></p>
+			</div>    </div>
+		</div>
+	</body>
+	</html>
+

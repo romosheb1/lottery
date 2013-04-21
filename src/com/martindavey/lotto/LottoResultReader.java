@@ -51,7 +51,7 @@ public class LottoResultReader {
 
 		StringBuilder results = new StringBuilder(1024);
 
-		String lastDateChecked = "20130309"; // TODO Derive from file
+		String lastDateChecked = "20130413"; // TODO Derive from file
 
 		Calendar cal = Calendar.getInstance();
 		cal.set(Calendar.YEAR, Integer.parseInt(lastDateChecked.substring(0, 4)));
